@@ -11,7 +11,7 @@ This project is a front-end clone of the popular online learning platform **Udem
 ## 🧰 Technologies Used
 
 - HTML5
-- CSS3
+- CSS
 - Responsive Design with Media Queries
 
 
